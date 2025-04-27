@@ -6,7 +6,7 @@ Ethereum Blockchain based E-Waste Management System
 0. Clone the repo:
 
     ```shell
-    git clone https://github.com/siddheshhadkar/e-waste-management-using-blockchain
+    git clone [https://github.com/siddheshhadkar/e-waste-management-using-blockchain](https://github.com/Projecto22/e-waste_managemt.git)
     cd e-waste-management-using-blockchain
     ```
     
